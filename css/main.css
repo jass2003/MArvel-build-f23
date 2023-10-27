@@ -58,6 +58,10 @@ header {
     /* we use box-shadow because we wanna make the effect between the box-shadow that we made */
 }
 
+.characters li a {
+    text-decoration: none;
+}
+
 .characters li:hover {
     box-shadow: 0 220px 0 rgb(255, 0, 0) inset;
     /* make a box-clor in ur character texts */
