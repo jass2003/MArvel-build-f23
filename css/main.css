@@ -132,7 +132,7 @@ footer {
     display: none;
 }
 
-.lightbox2 {
+#lightbox2 {
     background-image: url('../images/Thor_LB_Bg.png');
 }
 
